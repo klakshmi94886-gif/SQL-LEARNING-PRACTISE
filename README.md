@@ -1,11 +1,6 @@
 # SQL-LEARNING-PRACTISE
-/*
+Analytical queries for an Employee Management System.
 ====================================================================
-FILE NAME: ass.2 script sql.sql
-DESCRIPTION: Database schema design, DML operations, and advanced 
-             analytical queries for an Employee Management System.
-====================================================================
-*/
 
 -- -----------------------------------------------------------------
 -- 1. DATABASE INITIALIZATION & SCHEMA DEFINITION
